@@ -1,0 +1,14 @@
+{
+  "name": "dedomil-api",
+  "version": "1.0.0",
+  "description": "personal api for websites or for other things",
+  "main": "index.js",
+  "keywords": [],
+  "author": "dedomil",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "superagent": "^8.1.2"
+  }
+}
